@@ -1,9 +1,9 @@
 # oss-audit-24MIP10018
 A Capstone Project for OSS NGMC Course
 
-# 📘 **Open Source Audit Project — MySQL**
+# **Open Source Audit Project — MySQL**
 
-## 👩‍🎓 Student Details
+## Student Details
 
 * **Name:** Arunika Bag
 * **Registration Number:** 24MIP10018
@@ -11,13 +11,13 @@ A Capstone Project for OSS NGMC Course
 
 ---
 
-## 💻 Chosen Software
+## Chosen Software
 
 MySQL is an open-source relational database management system widely used in web applications and part of the LAMP stack.
 
 ---
 
-# 📂 Project Overview
+# Project Overview
 
 This repository contains:
 
@@ -27,11 +27,11 @@ This repository contains:
 
 ---
 
-# ⚙️ Environment Setup
+# Environment Setup
 
 This project was developed and tested on a Linux system.
 
-## 🔹 Requirements
+## Requirements
 
 * Linux OS (Ubuntu / Debian / Arch recommended)
 * Bash Shell
@@ -40,7 +40,7 @@ This project was developed and tested on a Linux system.
 
 ---
 
-## 🔹 Install Dependencies
+## Install Dependencies
 
 Run the following commands:
 
@@ -58,9 +58,9 @@ sudo pacman -S mysql
 
 ---
 
-# 📜 Scripts Description
+# Scripts Description
 
-## 🧾 Script 1 — System Identity Report
+## Script 1 — System Identity Report
 
 Displays system information such as:
 
@@ -71,11 +71,11 @@ Displays system information such as:
 * Linux distribution
 * OS license
 
-👉 Demonstrates: variables, command substitution, echo
+ Demonstrates: variables, command substitution, echo
 
 ---
 
-## 📦 Script 2 — FOSS Package Inspector
+## Script 2 — FOSS Package Inspector
 
 Checks if MySQL is installed and shows:
 
@@ -83,11 +83,11 @@ Checks if MySQL is installed and shows:
 * License
 * Developer details
 
-👉 Demonstrates: if-else, dpkg, grep, awk, case statement
+Demonstrates: if-else, dpkg, grep, awk, case statement
 
 ---
 
-## 📊 Script 3 — Disk and Permission Auditor
+## Script 3 — Disk and Permission Auditor
 
 Analyzes system directories:
 
@@ -95,22 +95,22 @@ Analyzes system directories:
 * Permissions
 * Ownership
 
-👉 Demonstrates: loops, file checks, text processing
+Demonstrates: loops, file checks, text processing
 
 ---
 
-## 📁 Script 4 — Log File Analyzer
+## Script 4 — Log File Analyzer
 
 Reads a log file and:
 
 * Counts keyword occurrences (default: error)
 * Displays last 5 matching lines
 
-👉 Demonstrates: while loop, conditionals, arguments
+Demonstrates: while loop, conditionals, arguments
 
 ---
 
-## 📝 Script 5 — Open Source Manifesto Generator
+## Script 5 — Open Source Manifesto Generator
 
 Creates a personalized manifesto by:
 
@@ -118,13 +118,13 @@ Creates a personalized manifesto by:
 * Generating a paragraph
 * Saving it to a file
 
-👉 Demonstrates: user input, string handling, file writing
+Demonstrates: user input, string handling, file writing
 
 ---
 
-# ▶️ How to Run the Scripts
+# How to Run the Scripts
 
-## 🔹 Step 1: Clone the Repository
+##  Step 1: Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/oss-audit-yourrollnumber.git
@@ -133,7 +133,7 @@ cd oss-audit-yourrollnumber
 
 ---
 
-## 🔹 Step 2: Give Execution Permission
+##  Step 2: Give Execution Permission
 
 ```bash
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
@@ -141,7 +141,7 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
 ---
 
-## 🔹 Step 3: Run Each Script
+##  Step 3: Run Each Script
 
 ### Script 1
 
@@ -189,7 +189,7 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
 ---
 
-# ⚠️ Notes
+# Notes
 
 * Some scripts may require **sudo privileges** (especially for logs)
 * Log file paths may vary:
@@ -199,7 +199,7 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
 ---
 
-# 📌 Conclusion
+# Conclusion
 
 This project demonstrates both **theoretical understanding of open-source software** and **practical Linux skills using shell scripting**. It highlights how tools like MySQL are integrated into modern systems and how open-source principles enable collaboration and innovation.
 
