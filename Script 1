@@ -1,0 +1,27 @@
+#!/bin/bash
+# Script 1: System Identity Report
+# Author: Arunika | Course: Open Source Software
+
+# --- Variables ---
+STUDENT_NAME="Arunika"
+SOFTWARE_CHOICE="MySQL"
+
+# --- Collect system info ---
+KERNEL=$(uname -r)
+USER_NAME=$(whoami)
+UPTIME=$(uptime -p)
+DATE=$(date '+%d %B %Y %H:%M')
+DISTRO=$(lsb_release -d | cut -f2)
+
+# --- Display the report ---
+echo "================================"
+echo " Open Source Audit — $STUDENT_NAME"
+echo "================================"
+echo "Software chosen : $SOFTWARE_CHOICE"
+echo "Kernel version  : $KERNEL"
+echo "Logged in as    : $USER_NAME"
+echo "Uptime          : $UPTIME"
+echo "Date and Time   : $DATE"
+echo "Distribution    : $DISTRO"
+echo "OS License      : GNU General Public License v2"
+echo "================================"
