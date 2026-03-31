@@ -173,7 +173,7 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 ./script4.sh /var/log/syslog error
 ```
 
-👉 You can change keyword:
+You can change keyword:
 
 ```bash
 ./script4.sh /var/log/syslog warning
