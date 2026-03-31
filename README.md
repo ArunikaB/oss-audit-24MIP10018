@@ -6,7 +6,7 @@ A Capstone Project for OSS NGMC Course
 ## 👩‍🎓 Student Details
 
 * **Name:** Arunika Bag
-* **Registration Number:** ________
+* **Registration Number:** 24MIP10018
 * **Course:** Open Source Software
 
 ---
