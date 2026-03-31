@@ -13,7 +13,6 @@ A Capstone Project for OSS NGMC Course
 
 ## 💻 Chosen Software
 
-**MySQL (mysql-server)**
 MySQL is an open-source relational database management system widely used in web applications and part of the LAMP stack.
 
 ---
