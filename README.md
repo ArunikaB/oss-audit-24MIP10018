@@ -21,9 +21,9 @@ MySQL is an open-source relational database management system widely used in web
 
 This repository contains:
 
-* 📄 Open Source Audit Report (PDF)
-* 🖥️ 5 Shell Scripts demonstrating Linux and open-source concepts
-* 📘 README with setup and execution steps
+*  Open Source Audit Report (PDF)
+*  5 Shell Scripts demonstrating Linux and open-source concepts
+*  README with setup and execution steps
 
 ---
 
